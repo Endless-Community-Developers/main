@@ -1,0 +1,14 @@
+announcement:
+  label: Annoucement
+  permalink: /announcement
+  description: Any important website announcements.
+
+Welcome:
+  label: Welcome
+  permalink: /welcome
+  description: Welcome posts.
+
+Updates:
+  label: updates
+  permalink: /updates
+  description: Any important website updates.
