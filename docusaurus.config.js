@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Endless Devs (Community Developers Library)',
+  title: 'Endless Devs',
   tagline: 'Development tools for everyone!',
   favicon: 'img/favicon.ico',
 
@@ -84,7 +84,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Getting Starded',
+            label: 'Getting Started',
           },
           {to: '/blog',
            label: 'Blog',
