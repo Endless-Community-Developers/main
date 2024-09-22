@@ -11,7 +11,7 @@ parent: Servers
 
 EOServ is an Endless Online server emulator project.
 
-Founder: [Sausage](https://github.com/tehsausage)
+Creator: [Sausage](https://github.com/tehsausage)
 
 ### Features
 

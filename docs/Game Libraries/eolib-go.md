@@ -9,11 +9,13 @@ parent: Libraries
 
 ### About Library
 
-EOLib-go is a library for Go programming language, created by [Ethan Moffat](https://github.com/ethanmoffat).
+EOLib-go is a library for Go programming language.
+
+Creator: [Ethan Moffat](https://github.com/ethanmoffat)
 
 ### Check it out on GitHub
 
-**Project Links:** [Main Branch](https://github.com/ethanmoffat/eolib-go) | [Relases](https://github.com/ethanmoffat/eolib-go/releases)
+**Project Links:** [Main Branch](https://github.com/ethanmoffat/eolib-go) | [Releases](https://github.com/ethanmoffat/eolib-go/releases)
 
 ### Read the docs
 

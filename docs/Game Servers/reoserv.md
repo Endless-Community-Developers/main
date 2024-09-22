@@ -11,7 +11,7 @@ parent: Servers
 
 REOSERV is the first application being developed with the EO crate. It's a fast, reliable, and a concurrent server for Endless Online. **REOSERV is still in heavy development.** 
 
-Founder: [Sorokya](https://github.com/sorokya)
+Creator: [Sorokya](https://github.com/sorokya)
 
 ### Check it out on GitHub
 
