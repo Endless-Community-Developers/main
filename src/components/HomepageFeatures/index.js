@@ -13,20 +13,19 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Tools',
+    title: 'Community',
     description: (
       <>
-        We have listed all of the current tools availiable for developers,
-        thanks to all of the community developers for devoting time to create them for everyone to use. 
+        If you are interested in showing off your project, check out the 404 Developer Community.  
       </>
     ),
   },
   {
-    title: 'Guides',
+    title: 'Blog',
     description: (
       <>
-        Check out our guides area where we will list different types of guides
-        for developing your own Endless Online projects!
+        Check out our blog area where we will list different types of guides
+        for developing your own Endless Online projects. We will also use the blog to post important informationa bout the website.!
       </>
     ),
   },
