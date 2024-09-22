@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Endless-Community-Developers/main',
+            'https://github.com/Endless-Community-Developers/main/tree/main',
         },
         blog: {
           showReadingTime: true,
@@ -55,7 +55,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Endless-Community-Developers/main',
+            'https://github.com/Endless-Community-Developers/main/tree/main',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -118,7 +118,7 @@ const config = {
               },
               {
                 label: '404 Developer Community Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.com/invite/MCk65uP',
               },
             ],
           },
