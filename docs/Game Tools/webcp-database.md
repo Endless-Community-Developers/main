@@ -7,4 +7,4 @@ parent: Tools
 
 # WebCP-Database
 
-WebCP-Database is a [EOServ web control panel](/webcp/) with additional features created by Apollo.
+WebCP-Database is a EOServ web control panel with additional features created by Apollo.
