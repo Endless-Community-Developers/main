@@ -1,3 +1,11 @@
+# Contributing
+
+If you would like to contribute to the website, please create a new branch. Once you have created a new branch, you can modify or create new docs within the /docs/ directory. 
+
+Once you have finished, go to the root of the repo and merge pull request. We will review it, provide any feedback/changes if required then merge your branch into main.
+
+--
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
