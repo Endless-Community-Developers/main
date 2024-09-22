@@ -9,11 +9,13 @@ parent: Libraries
 
 ### About Library
 
-EOLib-ts is a library for JavaScript / TypeScript programming language, created by [Cirras](https://github.com/Cirras).
+EOLib-ts is a library for JavaScript / TypeScript programming language.
+
+Creator: [Cirras](https://github.com/Cirras)
 
 ### Check it out on GitHub
 
-**Project Links:** [Main Branch](https://github.com/Cirras/eolib-ts/) | [Relases](https://github.com/Cirras/eolib-ts/releases/)
+**Project Links:** [Main Branch](https://github.com/Cirras/eolib-ts/) | [Releases](https://github.com/Cirras/eolib-ts/releases/)
 
 ### Check it out on npm
 

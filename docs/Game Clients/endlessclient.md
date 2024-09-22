@@ -9,7 +9,9 @@ parent: Clients
 
 ### About Client
 
-EndlessClient is an open-source client written in C# for Endless Online
+EndlessClient is an open-source client written in C# for Endless Online.
+
+Creator: [Ethan Moffat](https://github.com/ethanmoffat)
 
 ### Contributing 
 

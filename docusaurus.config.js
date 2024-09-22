@@ -76,8 +76,8 @@ const config = {
       navbar: {
         title: 'Endless Devs',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Endless Devs Logo',
+          src: 'img/logo.png',
         },
         items: [
           {

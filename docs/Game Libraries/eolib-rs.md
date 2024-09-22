@@ -9,11 +9,13 @@ parent: Libraries
 
 ### About Library
 
-EOLib-rs is a library for Rust programming language, created by [Sorokya](https://github.com/sorokya).
+EOLib-rs is a library for Rust programming language.
+
+Creator: [Sorokya](https://github.com/sorokya)
 
 ### Check it out on GitHub
 
-**Project Links:** [Main Branch](https://github.com/sorokya/eolib-rs) | [Relases](https://github.com/sorokya/eolib-rs/releases/)
+**Project Links:** [Main Branch](https://github.com/sorokya/eolib-rs) | [Releases](https://github.com/sorokya/eolib-rs/releases/)
 
 ### Check it out on Crates.io
 

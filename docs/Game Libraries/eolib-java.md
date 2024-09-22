@@ -9,11 +9,13 @@ parent: Libraries
 
 ### About Library
 
-EOLib-java is a library for Java programming language, created by [Cirras](https://github.com/Cirras).
+EOLib-java is a library for Java programming language.
+
+Creator: [Cirras](https://github.com/Cirras)
 
 ### Check it out on GitHub
 
-**Project Links:** [Main Branch](https://github.com/Cirras/eolib-java) | [Relases](https://github.com/Cirras/eolib-java/releases)
+**Project Links:** [Main Branch](https://github.com/Cirras/eolib-java) | [Releases](https://github.com/Cirras/eolib-java/releases)
 
 ### Check it out on Maven Central
 

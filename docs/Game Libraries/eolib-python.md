@@ -9,11 +9,13 @@ parent: Libraries
 
 ### About Library
 
-EOLib-python is a library for Go programming language, created by [Cirras](https://github.com/Cirras).
+EOLib-python is a library for Go programming language.
+
+Creator: [Cirras](https://github.com/Cirras)
 
 ### Check it out on GitHub
 
-**Project Links:** [Main Branch](https://github.com/Cirras/eolib-python) | [Relases](https://github.com/Cirras/eolib-python/releases)
+**Project Links:** [Main Branch](https://github.com/Cirras/eolib-python) | [Releases](https://github.com/Cirras/eolib-python/releases)
 
 ### Check it out on Pypi
 

@@ -11,7 +11,7 @@ parent: Servers
 
 Croissant is a reimplementation of the classic Endless Online game server (EOS) written in Java programming language. 
 
-Founder: [Cirras](https://github.com/Cirras)
+Creator: [Cirras](https://github.com/Cirras)
 
 ### Why use Croissant?
 

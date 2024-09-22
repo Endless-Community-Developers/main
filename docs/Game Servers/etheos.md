@@ -11,7 +11,7 @@ parent: Servers
 
 ETHEOS is an open-source github-based fork of EOSERV with added features.
 
-Founder: [Ethan Moffat](https://github.com/ethanmoffat)
+Creator: [Ethan Moffat](https://github.com/ethanmoffat)
 
 ### Added Features
 
