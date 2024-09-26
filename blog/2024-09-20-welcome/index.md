@@ -2,7 +2,7 @@
 slug: welcome
 title: Welcome
 authors: [jimmysnetwork]
-tags: [announcement, welcome]
+tags: [Announcements, Welcome]
 ---
 <!--` `truncate` `-->
 

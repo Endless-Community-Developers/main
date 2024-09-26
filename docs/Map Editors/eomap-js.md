@@ -1,15 +1,15 @@
 ---
 layout: page
-title: EOMap-js
+title: Endless Map Editor
 permalink: /eomap-js/
 parent: Map Editors
 ---
 
-# EOMap-js
+# Endless Map Editor
 
 ### About Tool
 
-EOMap-js is an Endless Map Editor written in Javascript.
+Endless Map Editor is a tool for creating, or modifying maps for Endless Online.
 
 Creator: [Cirras](https://github.com/Cirras)
 

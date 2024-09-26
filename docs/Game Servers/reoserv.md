@@ -9,7 +9,7 @@ parent: Servers
 
 ### About Server Emulator
 
-REOSERV is the first application being developed with the EO crate. It's a fast, reliable, and a concurrent server for Endless Online. **REOSERV is still in heavy development.** 
+REOSERV is the first application being developed with the EO crate. It's a fast, reliable, and a concurrent server for Endless Online.
 
 Creator: [Sorokya](https://github.com/sorokya)
 

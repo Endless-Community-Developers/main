@@ -1,15 +1,15 @@
 ---
 layout: page
-title: EOLib-RS
+title: EOLib (RS)
 permalink: /eolib-rs/
 parent: Libraries
 ---
 
-# EOLib-RS
+# EOLib (RS)
 
 ### About Library
 
-EOLib-rs is a library for Rust programming language.
+EOLib (RS) is a core Rust library for writing Endless Online applications.
 
 Creator: [Sorokya](https://github.com/sorokya)
 

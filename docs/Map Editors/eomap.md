@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EOMap
+title: EO Map Editor-Classic
 permalink: /eomap/
 parent: Map Editors
 ---
@@ -9,7 +9,7 @@ parent: Map Editors
 
 ### About Tool
 
-EOMap is an Endless Map Editor.
+EO Map Editor-Classic is a tool for creating, or modifying maps for Endless Online.
 
 Creator: [Sausage](https://github.com/tehsausage)
 

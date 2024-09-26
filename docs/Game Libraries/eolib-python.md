@@ -1,15 +1,15 @@
 ---
 layout: page
-title: EOLib-Python
+title: EOLib (Python)
 permalink: /eolib-python/
 parent: Libraries
 ---
 
-# EOLib-Python
+# EOLib (Python)
 
 ### About Library
 
-EOLib-python is a library for Go programming language.
+EOLib (Python) is a core Python library for writing Endless Online applications.
 
 Creator: [Cirras](https://github.com/Cirras)
 
