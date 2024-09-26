@@ -5,11 +5,11 @@ permalink: /eor-api/
 parent: Tools
 ---
 
-# Endless Online Recharged API
+# Endless Online Recharged API (EOR-API)
 
 ### About Tool
 
-EOR API is a tool for creating your own data website, tool, etc. You can grab data from the official Endless Online server using this API. 
+Endless Online Recharged API (EOR-API) provides access to in-game data for development purposes.
 
 Creator: [Exile Studios](https://github.com/ExileStudios)
 

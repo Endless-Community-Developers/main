@@ -1,15 +1,15 @@
 ---
 layout: page
-title: EOLib-TS
+title: EOLib (TS)
 permalink: /eolib-ts/
 parent: Libraries
 ---
 
-# EOLib-TS 
+# EOLib (TS)
 
 ### About Library
 
-EOLib-ts is a library for JavaScript / TypeScript programming language.
+EOLib (TS) is a core Javascript / Typescript library for writing Endless Online applications.
 
 Creator: [Cirras](https://github.com/Cirras)
 

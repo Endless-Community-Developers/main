@@ -1,15 +1,15 @@
 ---
 layout: page
-title: EOLib-PHP
+title: EOLib (PHP)
 permalink: /eolib-PHP/
 parent: Libraries
 ---
 
-# EOLib-PHP 
+# EOLib (PHP)
 
 ### About Library
 
-EOLib-php is a library for PHP programming language.
+EOLib (PHP) is a core PHP library for writing Endless Online applications.
 
 Creator: [Exile Studios](https://github.com/ExileStudios)
 

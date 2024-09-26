@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PubStudio
+title: Pub Studio
 permalink: /pubstudio/
 parent: Tools
 ---

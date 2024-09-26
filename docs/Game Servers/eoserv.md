@@ -1,21 +1,21 @@
 ---
 layout: page
-title: EOServ
+title: EOSERV
 permalink: /eoserv/
 parent: Servers
 ---
 
-# EOServ
+# EOSERV
 
 ### About Server Emulator
 
-EOServ is an Endless Online server emulator project.
+EOSERV is an Endless Online server emulator project.
 
 Creator: [Sausage](https://github.com/tehsausage)
 
 ### Features
 
-Features of EOServ can be found on [EOServ](http://eoserv.net) main website.
+Features of EOSERV can be found on [EOSERV](http://eoserv.net) main website.
 
 ### Check it out on GitHub
 

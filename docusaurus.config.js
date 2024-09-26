@@ -43,8 +43,8 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Endless-Community-Developers/main/tree/main',
+          //editUrl:
+          //  'https://github.com/Endless-Community-Developers/main/tree/main',
         },
         blog: {
           showReadingTime: true,
@@ -54,8 +54,8 @@ const config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Endless-Community-Developers/main/tree/main',
+          //editUrl:
+          //  'https://github.com/Endless-Community-Developers/main/tree/main',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -107,6 +107,14 @@ const config = {
                 label: 'Getting Started',
                 to: 'docs/intro',
               },
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
+                label: 'Credits',
+                to: 'docs/Extra/credits',
+              },
             ],
           },
           {
@@ -125,10 +133,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/Endless-Community-Developers/main',

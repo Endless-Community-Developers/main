@@ -1,15 +1,15 @@
 ---
 layout: page
-title: EOLib-Dotnet
+title: EOLib (Dotnet)
 permalink: /eolib-dotnet/
 parent: Libraries
 ---
 
-# EOLib-Dotnet 
+# EOLib (Dotnet)
 
 ### About Library
 
-EOLib-dotnet is a library for .NET Platform programming languages.
+EOLib (Dotnet) is a core .NET library for writing Endless Online applications.
 
 Creator: [Ethan Moffat](https://github.com/ethanmoffat)
 

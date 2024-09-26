@@ -1,15 +1,15 @@
 ---
 layout: page
-title: EOData
+title: Endless Data Studio
 permalink: /eodata/
 parent: Tools
 ---
 
-# EOData
+# Endless Data Studio
 
 ### About Tool
 
-EOData is a tool for creating and modifying the EDF data files from Endless Online.
+Endless Data Studio is a tool for creating and modifying the EDF data files from Endless Online.
 
 Creator: [Cirras](https://github.com/Cirras)
 

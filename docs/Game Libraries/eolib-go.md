@@ -1,15 +1,15 @@
 ---
 layout: page
-title: EOLib-GO
+title: EOLib (GO)
 permalink: /eolib-go/
 parent: Libraries
 ---
 
-# EOLib-GO
+# EOLib (GO)
 
 ### About Library
 
-EOLib-go is a library for Go programming language.
+EOLib (GO) is a core GO library for writing Endless Online applications.
 
 Creator: [Ethan Moffat](https://github.com/ethanmoffat)
 

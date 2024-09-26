@@ -1,15 +1,15 @@
 ---
 layout: page
-title: EOLib-Java
+title: EOLib (Java)
 permalink: /eolib-Java/
 parent: Libraries
 ---
 
-# EOLib-Java
+# EOLib (Java)
 
 ### About Library
 
-EOLib-java is a library for Java programming language.
+EOLib (Java) is a core Java library for writing Endless Online applications.
 
 Creator: [Cirras](https://github.com/Cirras)
 
