@@ -1,0 +1,8 @@
+{
+  "label": "Quests",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Game quests documentation created by different community developers."
+  }
+}
