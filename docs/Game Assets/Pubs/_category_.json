@@ -1,0 +1,8 @@
+{
+  "label": "Pubs",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Pubs documentation created by different community developers."
+  }
+}

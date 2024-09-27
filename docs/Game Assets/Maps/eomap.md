@@ -2,7 +2,7 @@
 layout: page
 title: EO Map Editor-Classic
 permalink: /eomap/
-parent: Map Editors
+parent: Maps
 ---
 
 # EOMap

@@ -2,7 +2,7 @@
 layout: page
 title: Endless Map Editor
 permalink: /eomap-js/
-parent: Map Editors
+parent: Maps
 ---
 
 # Endless Map Editor
