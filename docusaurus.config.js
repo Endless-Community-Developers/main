@@ -131,6 +131,10 @@ const config = {
                 label: 'Credits',
                 to: 'docs/Extra/credits',
               },
+              {
+                label: 'Links',
+                to: 'docs/Extra/links',
+              },
             ],
           },
           {
