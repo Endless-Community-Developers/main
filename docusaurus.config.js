@@ -89,17 +89,22 @@ const config = {
           {
            to: '/blog',
            label: 'Blog',
-           position: 'left'
+           position: 'left',
           },
           {
             to: 'docs/Extra/credits',
             label: 'Credits',
-            position: 'left'
+            position: 'left',
+          },
+          {
+            to: 'docs/Extra/links',
+            label: 'Links',
+            position: 'left',
           },
           {
             href: 'https://discord.com/invite/MCk65uP',
             label: '404 Discord',
-            position: 'left'
+            position: 'right',
           },
           {
             href: 'https://github.com/Endless-Community-Developers/main',
