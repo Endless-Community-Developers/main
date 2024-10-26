@@ -34,6 +34,7 @@ export default function Home() {
     <Layout
       title={`${siteConfig.title}`}
       description="Discover server emulators, game clients, libraries, and tools for Endless Online. Join a passionate community of developers keeping the spirit of Endless alive!">
+      
       <HomepageHeader />
       <main>
         <HomepageFeatures />

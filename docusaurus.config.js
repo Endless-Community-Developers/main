@@ -72,6 +72,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      metadata: [
+        {name: 'keywords', content: 'endless, endlessonline, endless-online, endless online, endless developers, endless, Endless Online game development, Endless Online private server, Endless Online emulator, Endless Online remake, Endless Online coding tutorials, Endless Online custom server, Endless Online graphics development, Endless Online map editor, Endless Online game assets, Endless Online programming, Endless Online modding, Endless Online sprite editor, Endless Online server scripting, Endless Online MMORPG development, Endless Online community projects, Endless Online fan servers, Endless Online open-source projects, Endless Online engine development, Endless Online client development, endless community, endless online community, programming, game development, developers'},
+      ],  
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Endless Devs',
