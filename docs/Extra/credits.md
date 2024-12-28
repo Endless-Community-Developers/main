@@ -24,4 +24,4 @@ Below are the list of people that have created all the projects listed on this w
 
 --
 
-**This website is hosted and managed by <a href="https://jimmys-network.com">JimmysNetwork</a>**
+**This website is hosted and managed by [JimmysNetwork](https://jimmys-network.com)**
