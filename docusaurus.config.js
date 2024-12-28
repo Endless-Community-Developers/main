@@ -163,7 +163,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} JimmysNetwork. Except where noted Copyright © ${new Date().getFullYear()} Endless Online`,
+        copyright: `Copyright © ${new Date().getFullYear()} Endless Devs. Except where noted Copyright © ${new Date().getFullYear()} Endless Online`,
       },
       prism: {
         theme: prismThemes.github,

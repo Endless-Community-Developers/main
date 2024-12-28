@@ -21,3 +21,7 @@ Below are the list of people that have created all the projects listed on this w
 -- 
 
 ***A big thanks to [Vult-r Studios](https://vult-r.com/) for creating [Endless Online](https://endless-online.com) and getting us all interested in creating these different projects.***
+
+--
+
+**This website is hosted and managed by [JimmysNetwork](https://jimmys-network.com)**
